@@ -5,3 +5,4 @@
 [Пример моего тестового задания с репортом](https://docs.google.com/spreadsheets/d/1LRuxivZtd6wCj84X3m_ascBkzvq68Dhx65LV40tCPkM/edit?usp=sharing)
 ---
 [Пример моего тестового задания smoke](https://docs.google.com/spreadsheets/d/1PM6Ub0pySwM4NH9-2igiSRH_HKV4pRXFYx3zEsJ1PBo/edit?usp=sharing)
+---
